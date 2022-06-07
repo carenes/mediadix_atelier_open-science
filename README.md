@@ -4,6 +4,8 @@ Titre : **Données publiques, science ouverte, données ouvertes**
 
 Version : **6 janvier 2022**
 
+DOI : *à venir*
+
 LICENCE : CC:BY 4.0
 
 ## Contenu du dépôt
