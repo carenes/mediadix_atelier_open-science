@@ -4,7 +4,7 @@ Titre : **Données publiques, science ouverte, données ouvertes**
 
 Version : **6 janvier 2022**
 
-DOI : *à venir*
+DOI : https://doi.org/10.5281/zenodo.6621599
 
 LICENCE : CC:BY 4.0
 
